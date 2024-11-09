@@ -1,0 +1,187 @@
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\bin\Debug\net6.0-windows\InfoTec.exe
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\bin\Debug\net6.0-windows\InfoTec.deps.json
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\bin\Debug\net6.0-windows\InfoTec.runtimeconfig.json
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\bin\Debug\net6.0-windows\InfoTec.dll
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\bin\Debug\net6.0-windows\InfoTec.pdb
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.AssemblyReference.cache
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadCliente.resources
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.Login.resources
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.Principal.resources
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.GenerateResource.cache
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.GeneratedMSBuildEditorConfig.editorconfig
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfoInputs.cache
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfo.cs
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CoreCompileInputs.cache
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.dll
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\refint\InfoTec.dll
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.pdb
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.genruntimeconfig.cache
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\ref\InfoTec.dll
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaCliente.resources
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadProduto.resources
+S:\Luiz - Programador de Sistemas (C#)\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaProduto.resources
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\InfoTec.exe
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\InfoTec.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\EntityFramework.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.AssemblyReference.cache
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadCliente.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadProduto.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadUsuario.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.Login.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Principal.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaCliente.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaConsultVendas.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaProduto.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaUsuario.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaVenda.resources
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.GenerateResource.cache
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.GeneratedMSBuildEditorConfig.editorconfig
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfoInputs.cache
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfo.cs
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CoreCompileInputs.cache
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CopyComplete
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.dll
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\refint\InfoTec.dll
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.pdb
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\InfoTec.deps.json
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\InfoTec.runtimeconfig.json
+S:\Turma 243\Luiz\InfoTec\bin\Debug\net6.0-windows\InfoTec.pdb
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\InfoTec.genruntimeconfig.cache
+S:\Turma 243\Luiz\InfoTec\obj\Debug\net6.0-windows\ref\InfoTec.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.exe
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.deps.json
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.runtimeconfig.json
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.pdb
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.AssemblyReference.cache
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadCliente.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadProduto.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadUsuario.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.Login.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Principal.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaCliente.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaConsultVendas.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaProduto.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaUsuario.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaVenda.resources
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.GenerateResource.cache
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfoInputs.cache
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfo.cs
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CoreCompileInputs.cache
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CopyComplete
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\refint\InfoTec.dll
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.pdb
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.genruntimeconfig.cache
+C:\Users\sala308b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\ref\InfoTec.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.exe
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.deps.json
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.runtimeconfig.json
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\ref\InfoTec.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.pdb
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.AssemblyReference.cache
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadCliente.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadProduto.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadUsuario.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.Login.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Principal.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaCliente.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaConsultVendas.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaProduto.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaUsuario.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaVenda.resources
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.GenerateResource.cache
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfoInputs.cache
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfo.cs
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CoreCompileInputs.cache
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CopyComplete
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\ref\InfoTec.dll
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.pdb
+C:\Users\sala302b\Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.genruntimeconfig.cache
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.exe
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.deps.json
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.runtimeconfig.json
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\InfoTec.pdb
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.AssemblyReference.cache
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadCliente.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadProduto.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.CadUsuario.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.Login.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Principal.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaCliente.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaConsultVendas.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaProduto.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaUsuario.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.TelaVenda.resources
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.GenerateResource.cache
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfoInputs.cache
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.AssemblyInfo.cs
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.CoreCompileInputs.cache
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.csproj.Up2Date
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\refint\InfoTec.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.pdb
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.genruntimeconfig.cache
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\ref\InfoTec.dll
+C:\C#Desktop\InfoTec - Projeto\InfoTec\obj\Debug\net6.0-windows\InfoTec.Forms.teste.resources
